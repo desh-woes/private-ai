@@ -85,3 +85,7 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 2. I also created my personal repository for [daily](https://github.com/desh-woes/private-ai) updates
 
 3. Finally, today I'd like to thank @Arka and @Anna Scott for reminding me to share my updates as well as I motivate @Artur Freitas Gonçalves, @Elimu Michael, to share their updates.
+
+### Day 14:
+**Update** - 11/07/2019
+1. After a very long day, today I was able to glance throught the content breifly as well as read through the tons of slack mesages I have been unable to read since yesterday when I was offline and at work till very late at Night. I am seriously waiting for this week to be over so I can spend much more quality time working on the course.
