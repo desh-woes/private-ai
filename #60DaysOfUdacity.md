@@ -89,3 +89,11 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 ### Day 14:
 **Update** - 11/07/2019
 1. After a very long day, today I was able to glance throught the content breifly as well as read through the tons of slack mesages I have been unable to read since yesterday when I was offline and at work till very late at Night. I am seriously waiting for this week to be over so I can spend much more quality time working on the course.
+
+### Day 15:
+**Update** - 12/07/2019
+1. First, I'd like to thank @Arka, @Mohit and @Anna Scott for the constant motivation to post my updates. This week has been a really busy one for me and I have been really busy with work.
+
+2. Today however I continued with covering some of the content on deep learning with Tensorflow. Today I was able to replicate the cats and dogs image classification exercise with Tensorflow. I am still struggling with running the model on Google collab as it tells me I run out of ram but I hope to figure that out soon as it worked earlier in the day with about 80% accuracy.
+
+3. Today, i'd also like to encourage @Perez Ogayo, @Sumanyu Rosha, and @Elimu Michael to share their update.
