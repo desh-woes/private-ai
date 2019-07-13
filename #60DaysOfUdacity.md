@@ -97,3 +97,7 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 2. Today however I continued with covering some of the content on deep learning with Tensorflow. Today I was able to replicate the cats and dogs image classification exercise with Tensorflow. I am still struggling with running the model on Google collab as it tells me I run out of ram but I hope to figure that out soon as it worked earlier in the day with about 80% accuracy.
 
 3. Today, i'd also like to encourage @Perez Ogayo, @Sumanyu Rosha, and @Elimu Michael to share their update.
+
+### Day 16:
+**Update** - 13/07/2019
+1. Today I spent about an hour catching up on unread slack messages as I have been unable to do that since yesterday because of work. I am looking forward to finally resting tommorow and hope to get back on track with the course.
