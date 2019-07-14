@@ -101,3 +101,7 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 ### Day 16:
 **Update** - 13/07/2019
 1. Today I spent about an hour catching up on unread slack messages as I have been unable to do that since yesterday because of work. I am looking forward to finally resting tommorow and hope to get back on track with the course.
+
+### Day 17:
+**Update** - 14/07/2019
+1. I dedicated today to learning about down-sizing, max pooling which are used for image classification algorithms in deep learning.
