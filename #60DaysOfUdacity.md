@@ -105,3 +105,11 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 ### Day 17:
 **Update** - 14/07/2019
 1. I dedicated today to learning about down-sizing, max pooling which are used for image classification algorithms in deep learning.
+
+### Day 18:
+**Update** - 15/07/2019
+1. Today I was finally able to resume work on the secure and private AI course, I was not able to make the like Q&A session with Robert Wagner but I watched the video on youtube and got some tips regarding Differential privacy's current limitations and the areas of growth.
+
+2. It is always refreshing getting expert tips. I want to thank @Mohit and @Arka for the constant motivation for me to share my updates. It has been tough in the past week but now I feel much more refreshed and good to move on with the course and engaging with the community more.
+
+3. I'd also like to challenge @Sumanyu Rosha, @Elimu Michael, @Henrique Mello to share or keep sharing their updates if they have not already.
