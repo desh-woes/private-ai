@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 This file is a documentation of my learning journey over a 60 days period in attempt to optimise my learning from the `Secure and Private AI` challenge course by Udacity. 
 
 >**Challenge Start Date:** 27th June, 2019.
