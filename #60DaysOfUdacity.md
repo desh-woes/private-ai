@@ -113,3 +113,11 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 2. It is always refreshing getting expert tips. I want to thank @Mohit and @Arka for the constant motivation for me to share my updates. It has been tough in the past week but now I feel much more refreshed and good to move on with the course and engaging with the community more.
 
 3. I'd also like to challenge @Sumanyu Rosha, @Elimu Michael, @Henrique Mello to share or keep sharing their updates if they have not already.
+
+### Day 19:
+**Update** - 16/07/2019
+1. Finally back on track, today I completed the lesson on differential privacy with deep learning. I got stuck many times but was helped a lot today by @Ateniola Oluwatobi Victor and @Gogulaanand R. Thank you both for aiding my learnings. I really appreciate.
+
+2. I'd like to motivate @Anna Scott, @Mohit, @Arka, @Abhishek Tandon, @Stark, to keep doing great stuff and pushing boundaries with this course. I have been seeing a lot of amazing posts.
+
+3. Finally, I am looking for a buddy to help me with completing the project for differential privacy in deep learning. It is a bit confusing and I need guidance to work on it tomorrow, if you are available, please let me know.
