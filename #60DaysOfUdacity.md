@@ -121,3 +121,9 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 2. I'd like to motivate @Anna Scott, @Mohit, @Arka, @Abhishek Tandon, @Stark, to keep doing great stuff and pushing boundaries with this course. I have been seeing a lot of amazing posts.
 
 3. Finally, I am looking for a buddy to help me with completing the project for differential privacy in deep learning. It is a bit confusing and I need guidance to work on it tomorrow, if you are available, please let me know.
+
+### Day 20:
+**Update** - 17/07/2019
+1. Today, I spent a good amount of time on a call with my brothers @Ateniola Oluwatobi Victor and @Dammy to get clarification on how to best approach and solve the problem introduced in module 5 i.e differential privacy with deep learning. @Ateniola Oluwatobi Victor was very helpful and I think I am now in a position to carry on with the assignment. I'd see how tomorrow goes.
+
+2. 'd like to thank @Arka, @Mohit, @Anna Scott, for their dedication to the #60daysofudacity and their constant effort to motivate others on the group. Finally, I'd like to motivate @Sumanyu Rosha, @Gogulaanand R, @Abhishek Tandon to keep sharing their updates.
