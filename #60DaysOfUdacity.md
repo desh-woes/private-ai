@@ -127,3 +127,11 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 1. Today, I spent a good amount of time on a call with my brothers @Ateniola Oluwatobi Victor and @Dammy to get clarification on how to best approach and solve the problem introduced in module 5 i.e differential privacy with deep learning. @Ateniola Oluwatobi Victor was very helpful and I think I am now in a position to carry on with the assignment. I'd see how tomorrow goes.
 
 2. 'd like to thank @Arka, @Mohit, @Anna Scott, for their dedication to the #60daysofudacity and their constant effort to motivate others on the group. Finally, I'd like to motivate @Sumanyu Rosha, @Gogulaanand R, @Abhishek Tandon to keep sharing their updates.
+
+### Day 21:
+**Update** - 18/07/2019
+1. Today was an interesting day as I got to spend quality time on the final project for #l5_diff_privacy_dl. I have gone through all the steps of separating the training set into different private sets, training the models and using them to label the existing models. Currently, my Pate analysis, however, does not seem to be right but I am sure it can be fixed easily and I'd go back to look at it at another time.
+
+2. Id like to thank @Ateniola Oluwatobi Victor, @Diego fro their support today in helping me make progress with the project and I'd like to encourage @Sumanyu Rosha. @Anna Scott, @Mohit, @ThienAn, @Agata [OR, USA] to keep working and sharing their updates.
+
+3. Link to the [repo:](https://github.com/desh-woes/private-ai/blob/master/%2360DaysOfUdacity.md)
