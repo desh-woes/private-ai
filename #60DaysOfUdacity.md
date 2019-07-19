@@ -135,3 +135,7 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 2. Id like to thank @Ateniola Oluwatobi Victor, @Diego fro their support today in helping me make progress with the project and I'd like to encourage @Sumanyu Rosha. @Anna Scott, @Mohit, @ThienAn, @Agata [OR, USA] to keep working and sharing their updates.
 
 3. Link to the [repo:](https://github.com/desh-woes/private-ai/blob/master/%2360DaysOfUdacity.md)
+
+### Day 22:
+**Update** - 19/07/2019
+1. Today I participated in the boom with basics exercise conducted in the #beginners channel and I researched about model deployment on web platforms to get an idea of how the things I am learning now could be deployed for actual use.
