@@ -145,3 +145,13 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 1. Today I completed my [Portfolio Website](https://oluwarotimi-portfolio.herokuapp.com/) and deployed it on Heroku. This is a result of a web design course I have been taking alongside this course which I just got the certificate for. I look forward to more web development project and hopefully some AI based applications deployed on web.
 
 2. I also looked over some concepts on the Udacity free tensor-flow course. It's great to explore some of these libraries once in a while to get a general understanding of deep learning.
+
+### Day 24:
+**Update** - 21/07/2019
+1. Today I joined a call with my fellow Nigerians from the #sg_nigerian group, to discuss the projects and progress made in the course so far. I was amazing having @Dammy as the host and being with other Nigerians like @Ateniola Oluwatobi Victor and @Temitope Oladokun.
+
+2. Also today, I Started exploring federated learning. Still a lot of questions regarding the difference between federated learning and differentially private deep learning but I am getting some really good answers to my questions thanks to @Gogulaanand R, @sourav kumar and @Alison Davey.
+
+3. Thanks to @Arka for the constant motivation. I really love what you are doing with the Anime image generation. I'm a big anime fan.
+
+4. Github Repo: [https://github.com/desh-woes/private-ai/blob/master/%2360DaysOfUdacity.md](https://github.com/desh-woes/private-ai/blob/master/%2360DaysOfUdacity.md)
