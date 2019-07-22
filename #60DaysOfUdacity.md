@@ -155,3 +155,10 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 3. Thanks to @Arka for the constant motivation. I really love what you are doing with the Anime image generation. I'm a big anime fan.
 
 4. Github Repo: [https://github.com/desh-woes/private-ai/blob/master/%2360DaysOfUdacity.md](https://github.com/desh-woes/private-ai/blob/master/%2360DaysOfUdacity.md)
+
+
+### Day 25:
+**Update** - 22/07/2019
+1. Today I continued exploring the tensorflow library for deep learning. 
+
+2. I also continued working with the course content and exploring federated learning. 
