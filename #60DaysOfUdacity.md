@@ -162,3 +162,11 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 1. Today I continued exploring the tensorflow library for deep learning. 
 
 2. I also continued working with the course content and exploring federated learning. 
+
+### Day 26:
+**Update** - 23/07/2019
+1. Today I explored python's tweepy open source library. This is in an attempt to engage in some web scraping of Twitter's tweets for sentiment analysis.
+
+2. Today I also continued working on the #l6_federated_learning lesson. Still on track with my learning plan.
+
+3. I'd like to tag @Anna Scott, @Arka, @Sumanyu Rosha , @Abhishek Tandon , @Temitope Oladokun, @AlexDL, @sourav kumar to keep their flags flying :flag-ng: 
