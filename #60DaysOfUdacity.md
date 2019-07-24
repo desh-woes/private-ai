@@ -170,3 +170,9 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 2. Today I also continued working on the #l6_federated_learning lesson. Still on track with my learning plan.
 
 3. I'd like to tag @Anna Scott, @Arka, @Sumanyu Rosha , @Abhishek Tandon , @Temitope Oladokun, @AlexDL, @sourav kumar to keep their flags flying :flag-ng: 
+
+### Day 27:
+**Update** - 24/07/2019
+1. Today I read through the the various comments on the slack channel specifically the federated learning channel in preparation for the final project
+
+2. I also spent time building the simple linear federated model. It's nice to see you can train models remotely almost as easily as you train models on a local machine.
