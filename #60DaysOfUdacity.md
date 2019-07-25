@@ -176,3 +176,11 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 1. Today I read through the the various comments on the slack channel specifically the federated learning channel in preparation for the final project
 
 2. I also spent time building the simple linear federated model. It's nice to see you can train models remotely almost as easily as you train models on a local machine.
+
+### Day 28:
+**Update** - 25/07/2019
+1. Today I completed the lesson of Federated learning, now getting ready to implement the project for the section.
+
+2. I was also able to watch the interview with Brendan, a research scientist at Google, about the evolution, and use cases of federated learning.
+
+3. I'd like to thank @Arka for constant motivation to learn and constant support with answering questions, same as @Anna Scott and @Ateniola Oluwatobi Victor. I'd also like to motivate @ThienAn, @Agata [OR, USA], @ayivima, @Dammy, @Temitope Oladokun to keep the flag flying.
