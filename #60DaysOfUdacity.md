@@ -184,3 +184,11 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 2. I was also able to watch the interview with Brendan, a research scientist at Google, about the evolution, and use cases of federated learning.
 
 3. I'd like to thank @Arka for constant motivation to learn and constant support with answering questions, same as @Anna Scott and @Ateniola Oluwatobi Victor. I'd also like to motivate @ThienAn, @Agata [OR, USA], @ayivima, @Dammy, @Temitope Oladokun to keep the flag flying.
+
+### Day 29:
+**Update** - 26/07/2019
+1. Today was a really long day for me, I attended a fintech conference here to discuss the state of financial services in Rwanda and how it could be improved. It was a really interesting conference.
+
+2. I was also able to read through the posts and questions on the slack channel today. Little work with respect to the Federated learning project but I hope to get started with it soon enough.
+
+3. Shoutout to @Ateniola Oluwatobi Victor who is planning to host a webinar to discuss the challenge in lesson 5. I solved it but my results were not ideal so I am looking forward to the session with him.
