@@ -192,3 +192,9 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 2. I was also able to read through the posts and questions on the slack channel today. Little work with respect to the Federated learning project but I hope to get started with it soon enough.
 
 3. Shoutout to @Ateniola Oluwatobi Victor who is planning to host a webinar to discuss the challenge in lesson 5. I solved it but my results were not ideal so I am looking forward to the session with him.
+
+### Day 30:
+**Update** - 26/07/2019
+1. Today I started working on the project for #l6_federated_learning . It is actually an interesting project and I hope to get it to work tomorrow, depending on the amount of time I have on my plate for the project.
+
+2. Today I also worked on some data structures and algorithms in Python. This is in preparation for an upcoming interview which is currently taking up a bulk of my time.
