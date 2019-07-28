@@ -194,7 +194,15 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 3. Shoutout to @Ateniola Oluwatobi Victor who is planning to host a webinar to discuss the challenge in lesson 5. I solved it but my results were not ideal so I am looking forward to the session with him.
 
 ### Day 30:
-**Update** - 26/07/2019
+**Update** - 27/07/2019
 1. Today I started working on the project for #l6_federated_learning . It is actually an interesting project and I hope to get it to work tomorrow, depending on the amount of time I have on my plate for the project.
 
 2. Today I also worked on some data structures and algorithms in Python. This is in preparation for an upcoming interview which is currently taking up a bulk of my time.
+
+### Day 31:
+**Update** - 28/07/2019
+1. Today was spent talking about #l5_diff_privacy_dl with the #sg_nigerian study group. Thanks to @Dammy and @Ateniola Oluwatobi Victor for hosting the call and teaching us about the concepts covered in the #l5_diff_privacy_dl module i.e
+    - Local Differential Privacy
+    - Global Differential privacy
+    - Epsilon and Delta
+    - Pate analysis.
