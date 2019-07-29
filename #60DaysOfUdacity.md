@@ -206,3 +206,9 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
     - Global Differential privacy
     - Epsilon and Delta
     - Pate analysis.
+    
+### Day 32:
+**Update** - 29/07/2019
+1. I had a productive day today preparing for an interview and learning/Re-learning some OOP concepts such as encapsulation and inheritance. I am feeling better about the interview, definitely a lot less nervouse.
+
+2. I was not able to interact much with slack today as the platform was down for a bit. I hope this issue has been resolved now.
