@@ -212,3 +212,13 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 1. I had a productive day today preparing for an interview and learning/Re-learning some OOP concepts such as encapsulation and inheritance. I am feeling better about the interview, definitely a lot less nervouse.
 
 2. I was not able to interact much with slack today as the platform was down for a bit. I hope this issue has been resolved now.
+
+### Day 33:
+**Update** - 30/07/2019
+1. Still trying to figure out how to get over the federated learning project. Asking and answering questions on the slack channel.
+
+2. Had to brush up on my Java in preparation for my interview. This is still taking a bulk of my time and I am working on data structures and Algorithms using the Udacity DSA nano degree. Currently studying recursion (This is very brain draining!).
+
+3. I am excited about @Ateniola Oluwatobi Victor’s session coming up, I have cast my vote for a time and date on the poll created and shared by @Dammy. My #sg_nigerian group mates doing amazing stuff. also shoutout to @Arka for the cool projects and constant motivation.
+
+4. I'd like to motivate @Yemi, @Gogulaanand R, @ThienAn, @Henrique Mello, @Berenice, to keep being amazing and sharing their updates.
