@@ -222,3 +222,7 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 3. I am excited about @Ateniola Oluwatobi Victor’s session coming up, I have cast my vote for a time and date on the poll created and shared by @Dammy. My #sg_nigerian group mates doing amazing stuff. also shoutout to @Arka for the cool projects and constant motivation.
 
 4. I'd like to motivate @Yemi, @Gogulaanand R, @ThienAn, @Henrique Mello, @Berenice, to keep being amazing and sharing their updates.
+
+### Day 34:
+**Update** - 31/07/2019
+1. Reveiwed some of the content taught in the federated learning section. This is still in preparation for the final project. I have been quite lazy/busy to implement it.
