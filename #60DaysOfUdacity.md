@@ -226,3 +226,9 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 ### Day 34:
 **Update** - 31/07/2019
 1. Reveiwed some of the content taught in the federated learning section. This is still in preparation for the final project. I have been quite lazy/busy to implement it.
+
+### Day 34:
+**Update** - 1/08/2019
+1. I am glad to be in the last month of this challenge course, now working on powering through the last two modules left so I can learn all there is to be learnt before the end of the course.
+
+2. Still working on the federated learning project. It was a busy day at work so was not able to do much but I am still on track with my deadlines hopefully.
