@@ -227,8 +227,14 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 **Update** - 31/07/2019
 1. Reveiwed some of the content taught in the federated learning section. This is still in preparation for the final project. I have been quite lazy/busy to implement it.
 
-### Day 34:
+### Day 35:
 **Update** - 1/08/2019
 1. I am glad to be in the last month of this challenge course, now working on powering through the last two modules left so I can learn all there is to be learnt before the end of the course.
 
 2. Still working on the federated learning project. It was a busy day at work so was not able to do much but I am still on track with my deadlines hopefully.
+
+### Day 36:
+**Update** - 2/08/2019
+1. Today, I took a break from the project and decided to go through my notes and re-learn some of the concepts I found confusing on my first attempt. I always find this process useful to re-enforce my learning and I try to go through it for any kind of studies I am engaged with.
+
+2. I also did some work on my Udacity Data structures and Algorithms course, Have some pressing deadlines on that front and I am trying my best to manage both programs.
