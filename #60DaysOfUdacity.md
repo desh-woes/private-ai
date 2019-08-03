@@ -238,3 +238,11 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 1. Today, I took a break from the project and decided to go through my notes and re-learn some of the concepts I found confusing on my first attempt. I always find this process useful to re-enforce my learning and I try to go through it for any kind of studies I am engaged with.
 
 2. I also did some work on my Udacity Data structures and Algorithms course, Have some pressing deadlines on that front and I am trying my best to manage both programs.
+
+### Day 37:
+**Update** - 3/08/2019
+1. It was a super productive day for me today as I prioritised completing the Federated learning project. And although I am currently experiencing difficulties completing the project due to some conflict in Pysyft, I was able to build the federated learning model following the tutorials provided by Open mind themselves. you can access the tutorial via this link (https://blog.openmined.org/upgrade-to-federated-learning-in-10-lines/).
+
+2. Thanks to @Berenice, @Archit, @Ateniola Oluwatobi Victor, @Sumanyu Roshaand @Arka, for providing answers to my questions today, It really means a lot to me. You can access my GitHub repository via this link (https://github.com/desh-woes/private-ai/blob/master/%2360DaysOfUdacity.md). I implement all of my projects within the notebook.
+
+3. Big ups to @Temitope Oladokun, @Yemi, @Dammy, @Henrique Mello, @ThienAn, @Stark, @Agata [OR, USA] for making it this far in the program. We are in the finishing stage and I'd like to motivate them to keep moving.
