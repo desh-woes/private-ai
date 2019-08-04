@@ -246,3 +246,9 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 2. Thanks to @Berenice, @Archit, @Ateniola Oluwatobi Victor, @Sumanyu Roshaand @Arka, for providing answers to my questions today, It really means a lot to me. You can access my GitHub repository via this link (https://github.com/desh-woes/private-ai/blob/master/%2360DaysOfUdacity.md). I implement all of my projects within the notebook.
 
 3. Big ups to @Temitope Oladokun, @Yemi, @Dammy, @Henrique Mello, @ThienAn, @Stark, @Agata [OR, USA] for making it this far in the program. We are in the finishing stage and I'd like to motivate them to keep moving.
+
+### Day 38:
+**Update** - 4/08/2019
+1. Today I joined the study group #sg_nigerian meetup and which was led by @Jethro Sam-Marcus today. We discussed working on a project for the Project showcase.
+
+2.  Continued reviewing the error in my #l6_federated_learning project. I still have not been able to fix this though. I guess I will have to send my complaints to the open mind slack channel.
