@@ -252,3 +252,9 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 1. Today I joined the study group #sg_nigerian meetup and which was led by @Jethro Sam-Marcus today. We discussed working on a project for the Project showcase.
 
 2.  Continued reviewing the error in my #l6_federated_learning project. I still have not been able to fix this though. I guess I will have to send my complaints to the open mind slack channel.
+
+### Day 39:
+**Update** - 5/08/2019
+1. Today I got started with lesson 7. Having completed the project for lesson 6. I still have to follow up on some of my issues in the open mind channel but will do that tomorrow maybe.
+
+2. I also looked at some content on how to get started with open source software development. It is a field I am interested. Feel free to reach out is you have any ideas or hacks.
