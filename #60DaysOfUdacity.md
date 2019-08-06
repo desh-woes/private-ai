@@ -258,3 +258,9 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 1. Today I got started with lesson 7. Having completed the project for lesson 6. I still have to follow up on some of my issues in the open mind channel but will do that tomorrow maybe.
 
 2. I also looked at some content on how to get started with open source software development. It is a field I am interested. Feel free to reach out is you have any ideas or hacks.
+
+### Day 40:
+**Update** - 6/08/2019
+1. Today I continued working towards completing the challenge course, now in lesson 7 and in my last month of internship, things are getting a bit more hectic as I am striving for complete understanding.
+
+2. Also exploring ideas for the project showcase, might engage in the style transfer project as I have seen some cool results and will like to explore how that works, This depends a lot on how much time I have but will see how things go.
