@@ -264,3 +264,9 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 1. Today I continued working towards completing the challenge course, now in lesson 7 and in my last month of internship, things are getting a bit more hectic as I am striving for complete understanding.
 
 2. Also exploring ideas for the project showcase, might engage in the style transfer project as I have seen some cool results and will like to explore how that works, This depends a lot on how much time I have but will see how things go.
+
+### Day 41:
+**update** - 7/08/2019
+1. Today I was able to complete my lesson on #l7_sec_federtd_learn . It was interesting to explore additional security measures for federated learning such as secret sharing and precision encoding.
+
+This challenge has also been a huge motivational factor in pushing me to the completion of this course!
