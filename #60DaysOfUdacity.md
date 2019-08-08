@@ -270,3 +270,7 @@ I'd like to thank everyone who reminds me to keep up with the challenge and I'd 
 1. Today I was able to complete my lesson on #l7_sec_federtd_learn . It was interesting to explore additional security measures for federated learning such as secret sharing and precision encoding.
 
 This challenge has also been a huge motivational factor in pushing me to the completion of this course!
+
+### Day 42:
+**update** - 8/08/2019
+1.Today I took a look at the project for #l7_sec_federtd_learn. Still not entirely clear so I went back to the course for a bit
