@@ -274,3 +274,9 @@ This challenge has also been a huge motivational factor in pushing me to the com
 ### Day 42:
 **update** - 8/08/2019
 1.Today I took a look at the project for #l7_sec_federtd_learn. Still not entirely clear so I went back to the course for a bit
+
+### Day 43:
+**Update** - 9/08/2019
+1. Today, I saw this blogpost on the open mind slack channel shared by Andrew Trask (https://blog.openmined.org/federated-learning-differential-privacy-and-encrypted-computation-for-medical-imaging/) And I found it quite facinating the real world applications and importance of differential privacy in fields such as medicine.
+
+2. Watched some more videos in the secures and private federated learning course section.
