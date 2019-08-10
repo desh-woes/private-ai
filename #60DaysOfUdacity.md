@@ -280,3 +280,9 @@ This challenge has also been a huge motivational factor in pushing me to the com
 1. Today, I saw this blogpost on the open mind slack channel shared by Andrew Trask (https://blog.openmined.org/federated-learning-differential-privacy-and-encrypted-computation-for-medical-imaging/) And I found it quite facinating the real world applications and importance of differential privacy in fields such as medicine.
 
 2. Watched some more videos in the secures and private federated learning course section.
+
+### Day 44:
+**Update** - 10/08/2019
+1. Today, I read @Abhishek Tandon blogpost on pate analysis, it was very detailed and I reccomend that everyone who is either struggling to understand pate analysis or wants to re-enforce their understanding of pate analysis. you can find the article by following this link (http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html)
+
+2. Today, I also dedicated time to going through the slack chanel as it was an extremely busy week for me. My interview is right around the corner so I have dedicated more time than usual to my data structures and Algorithms course on Udacity. I can't wait for this phase to pass as it is a very stressful one. But this platform has been a huge motivation for me.
