@@ -286,3 +286,7 @@ This challenge has also been a huge motivational factor in pushing me to the com
 1. Today, I read @Abhishek Tandon blogpost on pate analysis, it was very detailed and I reccomend that everyone who is either struggling to understand pate analysis or wants to re-enforce their understanding of pate analysis. you can find the article by following this link (http://www.cleverhans.io/privacy/2018/04/29/privacy-and-machine-learning.html)
 
 2. Today, I also dedicated time to going through the slack chanel as it was an extremely busy week for me. My interview is right around the corner so I have dedicated more time than usual to my data structures and Algorithms course on Udacity. I can't wait for this phase to pass as it is a very stressful one. But this platform has been a huge motivation for me.
+
+### Day 45:
+**Update** - 11/08/2019
+1. Today I was not able to do much but I continued working towards the project for secured federated learning. I am trying to make the deadline of 20th of August so I can also partake in the Project showcase challenge all thinghs being equal
