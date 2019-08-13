@@ -293,7 +293,12 @@ This challenge has also been a huge motivational factor in pushing me to the com
 
 
 ### Day 46:
-**Update** - 11/082019
+**Update** - 11/08/2019
 1. Today I started going through the final lesson in this project. The goal is to complete this lesson and the project before the 20th of this month so I can participate in the project showcase.
 
 2. In other news, my interview preparation continues. The interview has been scheduled for Thursday this week so I am preparing overtime for this.
+
+### 47:
+1. Doubling down on the last lesson for this course. I am still on track. Have a ton of questions but will adress my notes once I have been through all the videos.
+
+2. Challenge link: https://github.com/desh-woes/private-ai/edit/master/%2360DaysOfUdacity.md
