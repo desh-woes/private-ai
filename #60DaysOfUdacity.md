@@ -308,4 +308,6 @@ This challenge has also been a huge motivational factor in pushing me to the com
 **Update** - 14/08/2019
 1. I took a break today to focus mainly on my interview prep which will finally happen tomorrow. I feel nervous about it but I also feel prepared and ready to tackle this. Looking forward to getting back on schedule on Friday. 
 
-
+### Day 49:
+**Update** - 15/08/2019
+1. 1. I finally got to have my interview today. Funny how I was asked about differential privacy and its applications in the interview (Because I highlighted this in my application) and I was able to answer the questions thanks to all that I have learnt so far from this community! I am grateful and hoping for a good outcome. I'd resume the regular courses later tomorrow.
