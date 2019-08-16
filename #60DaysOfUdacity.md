@@ -311,3 +311,7 @@ This challenge has also been a huge motivational factor in pushing me to the com
 ### Day 49:
 **Update** - 15/08/2019
 1. 1. I finally got to have my interview today. Funny how I was asked about differential privacy and its applications in the interview (Because I highlighted this in my application) and I was able to answer the questions thanks to all that I have learnt so far from this community! I am grateful and hoping for a good outcome. I'd resume the regular courses later tomorrow.
+
+### Day 50:
+**update** - 16/08/2019
+1. Today, I have made a lot of progress with the last module in the notebook, I am currently still trying to understand one-hot encoding and federated learning for deep learning in general but I am making good progress.
