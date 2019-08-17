@@ -315,3 +315,11 @@ This challenge has also been a huge motivational factor in pushing me to the com
 ### Day 50:
 **update** - 16/08/2019
 1. Today, I have made a lot of progress with the last module in the notebook, I am currently still trying to understand one-hot encoding and federated learning for deep learning in general but I am making good progress.
+
+### Day 51:
+**Update** -17/08/2019
+1. Few months, weeks and days later, I am pleased to announce that I have finally completed the content for the secure and private AI course. This courese has been an instrumental part of my learnings this summer especially the first model which introduced me to deep learning with Pytorch. Though I am done with the course content, my learning just began and I look forward to writing my first article regarding privacy preservation techniques and the importance of privacy.
+
+2. I am grateful to everyone who has answered my numerous questions in this slack channel. @Arka, @Archit, @Gogulaanand R, @Dustin Gogoll, @Ateniola Oluwatobi Victor, @Anna Scott, @Berenice, @sourav kumar, @Dammy, @Sumanyu Rosha, @Stark, @Abhishek Tandon, @ThienAn, @Henrique Mello, @Nawal to name a few.
+
+3. I am also grateful to those who constantly share opportunities on the platform. That is something I follow very carefully and find a lot of value in.
