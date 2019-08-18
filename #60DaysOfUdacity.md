@@ -323,3 +323,7 @@ This challenge has also been a huge motivational factor in pushing me to the com
 2. I am grateful to everyone who has answered my numerous questions in this slack channel. @Arka, @Archit, @Gogulaanand R, @Dustin Gogoll, @Ateniola Oluwatobi Victor, @Anna Scott, @Berenice, @sourav kumar, @Dammy, @Sumanyu Rosha, @Stark, @Abhishek Tandon, @ThienAn, @Henrique Mello, @Nawal to name a few.
 
 3. I am also grateful to those who constantly share opportunities on the platform. That is something I follow very carefully and find a lot of value in.
+
+### Day 52:
+**Update** - 18/08/2019
+1. Today I did some exploration for possible projects for the project showcase. I think I will most likely read some papers and try to recreate some of their models workinf with existing datasets. And try to incorporate some of the privacy preservinig techniques learnt from this course.
