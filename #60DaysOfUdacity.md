@@ -327,3 +327,9 @@ This challenge has also been a huge motivational factor in pushing me to the com
 ### Day 52:
 **Update** - 18/08/2019
 1. Today I did some exploration for possible projects for the project showcase. I think I will most likely read some papers and try to recreate some of their models workinf with existing datasets. And try to incorporate some of the privacy preservinig techniques learnt from this course.
+
+### Day 53:
+**Update** - 19/08/2019
+1. Today I did a bit of exploration with regards to my learning plan. thanks to the many people who have been able to answer my questions with regards to the importance of understanding other SWE tasks in learning AI.
+
+2. I also did some revision of concepts learnt in the course by going through the slack channel and answering questuons/reading through the questions asked.
