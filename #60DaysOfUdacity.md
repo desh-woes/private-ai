@@ -333,3 +333,9 @@ This challenge has also been a huge motivational factor in pushing me to the com
 1. Today I did a bit of exploration with regards to my learning plan. thanks to the many people who have been able to answer my questions with regards to the importance of understanding other SWE tasks in learning AI.
 
 2. I also did some revision of concepts learnt in the course by going through the slack channel and answering questuons/reading through the questions asked.
+
+### Day 54:
+**Update** - 20/08/2019
+1. Took a look at the keystone project. About to get started with that.
+
+2. Also revisited lesson 7 on Additive secret sharing to clarify some concepts learnt. Was on slack for the most of today.
