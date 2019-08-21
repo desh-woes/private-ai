@@ -339,3 +339,11 @@ This challenge has also been a huge motivational factor in pushing me to the com
 1. Took a look at the keystone project. About to get started with that.
 
 2. Also revisited lesson 7 on Additive secret sharing to clarify some concepts learnt. Was on slack for the most of today.
+
+### Day 55:
+**Update** - 21/08/2019
+1. Today I applied for the financial aid opportunity on data quest. I also started the python for data science learning path on Data quest. This decision has mostly been influenced by Yemi who gave me some career advice with regards to getting started in AI and the importance of knowing the basics associated with it.
+
+2. I am also attending a webinar by JP morgan on how to ace a technical interview. This starts in a few minutes. 
+
+3. Finally, preparing for a hackathon which is coming up on Friday. I am determined to try my best!
