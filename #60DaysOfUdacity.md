@@ -347,3 +347,9 @@ This challenge has also been a huge motivational factor in pushing me to the com
 2. I am also attending a webinar by JP morgan on how to ace a technical interview. This starts in a few minutes. 
 
 3. Finally, preparing for a hackathon which is coming up on Friday. I am determined to try my best!
+
+### Day 56:
+**Update** - 22/08/2019
+1. Today I read up on machine learning hackathon experiences and best practices in preparation for my hackathon tommorow. Hopefully I will be able to make use of Pytorch and a deep learning model. (https://towardsdatascience.com/qa-machine-learning-data-science-hackathons-921985c9e87d)
+
+2. Also went through some leetcode coding interview problems. I find them interesting.
