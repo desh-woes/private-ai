@@ -353,3 +353,13 @@ This challenge has also been a huge motivational factor in pushing me to the com
 1. Today I read up on machine learning hackathon experiences and best practices in preparation for my hackathon tommorow. Hopefully I will be able to make use of Pytorch and a deep learning model. (https://towardsdatascience.com/qa-machine-learning-data-science-hackathons-921985c9e87d)
 
 2. Also went through some leetcode coding interview problems. I find them interesting.
+
+### Day 57:
+**Update** - 23/08/2019
+1. Today was a super productive day for me as I was involved in a hackathon with a lot of brilliant minds. First shout-outs to @Arka and @Sumanyu Rosha who were very helpful during the hackathon, helping me with several errors and queries. I did not win any award prize but I am currently sitting in the top ten out of all who contested.
+
+2. The hackathon prompt was to develop a predictive model that correctly estimates the delivery time of goods from when they are picked up. Currently my model has a loss of 12 mins which is quite large but I am working on more feature exploration to this regard so that my model is training on relevant data only.
+
+3. The first approach I worked on with @Arka is a NN regression model with linear neurons and a mean squared error loss function. From this I was able to learn how to use Pytorch beyond image datasets. I always had a fear for this.
+
+4. After this I started exploring gradient boosting algorithms. XGBoost in particular. This gave me a better performance but I look forward to optimizing over the coming days! Thanks to everyone who answered my questions today. @Ateniola Oluwatobi Victor, @Calincan Mircea Ioan, @Ankush Jain, @Ishan Arora, @Rana Tallal
