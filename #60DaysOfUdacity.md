@@ -363,3 +363,9 @@ This challenge has also been a huge motivational factor in pushing me to the com
 3. The first approach I worked on with @Arka is a NN regression model with linear neurons and a mean squared error loss function. From this I was able to learn how to use Pytorch beyond image datasets. I always had a fear for this.
 
 4. After this I started exploring gradient boosting algorithms. XGBoost in particular. This gave me a better performance but I look forward to optimizing over the coming days! Thanks to everyone who answered my questions today. @Ateniola Oluwatobi Victor, @Calincan Mircea Ioan, @Ankush Jain, @Ishan Arora, @Rana Tallal
+
+### Day 58:
+**Update** - 24/08/2019
+1. Today, I continued working on my linear regression model. I have been doing some little feature exploration and I have so far been able to increase the model's score bit by bit. I need to read up more on Ensemblers and weight decay to ensure I can optimize my model but so far I like that it is getting better at least.
+
+2. The end of the challenge is here but we still using pytorch and Neural nets! Big shoutout to @Arka and @Sumanyu Rosha for always answering my questions!
