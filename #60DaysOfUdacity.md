@@ -369,3 +369,9 @@ This challenge has also been a huge motivational factor in pushing me to the com
 1. Today, I continued working on my linear regression model. I have been doing some little feature exploration and I have so far been able to increase the model's score bit by bit. I need to read up more on Ensemblers and weight decay to ensure I can optimize my model but so far I like that it is getting better at least.
 
 2. The end of the challenge is here but we still using pytorch and Neural nets! Big shoutout to @Arka and @Sumanyu Rosha for always answering my questions!
+
+### Day 59:
+**Update** - 25/08/2019
+1. Today I reconnected with my #sg_nigerian group. Insightfull call with @Ateniola Oluwatobi Victor, @Jethro Sam-Marcus and @Temitope Oladokun. I wish I could share what @Ateniola Oluwatobi Victor shared with us on the call :joy::eyes:.
+
+2. Read up more on multi-varite linear regression models. Exploring Sci-kit learn right now. Hoping to get my rating up. 
