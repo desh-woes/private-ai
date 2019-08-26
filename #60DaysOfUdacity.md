@@ -375,3 +375,9 @@ This challenge has also been a huge motivational factor in pushing me to the com
 1. Today I reconnected with my #sg_nigerian group. Insightfull call with @Ateniola Oluwatobi Victor, @Jethro Sam-Marcus and @Temitope Oladokun. I wish I could share what @Ateniola Oluwatobi Victor shared with us on the call :joy::eyes:.
 
 2. Read up more on multi-varite linear regression models. Exploring Sci-kit learn right now. Hoping to get my rating up. 
+
+### Day 60:
+**Update** - 26/08/2019
+1. Today was all about data structures and algorithms, solved some questions on leetcode and continued going through the course content on the data structures and algorithms nanodegree program on Udacity.
+
+2. I also attended today's AMA session. We are at the end of the program (Technically) and it has been an amazing journey with a lot of amazing people that I have come across so far.
